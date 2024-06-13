@@ -1,2 +1,2 @@
 #!/bin/bash
-for file in *.html if [[ ! -e "../$file" "$file" -nt "../$file" x]] then cp "$file" "x../" echo "Copied $file to ../" fi done
+for file in *.html if [[ ! -e "../file" "file" -nt "../file" x ]] then cp "file" "x../" echo "copied file to ../" fi done 
